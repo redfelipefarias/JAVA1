@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q4 {
+public class questao4 {
     public static void main(String[] args) {
         Scanner l = new Scanner(System.in);
         System.out.println("Qual a porcentagem do IPI?: ");
